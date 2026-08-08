@@ -1,4 +1,4 @@
 # gitandgithub-demo
 Learning git and github
 </br>
-Author - Ashu
+Author - Ashu Kumari
